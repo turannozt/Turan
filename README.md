@@ -2,7 +2,11 @@
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=turannozt&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turannozt&show_icons=true&theme=radical&layout=compact)
+
+
+
 ## 🚀 About Me
 I'm an 20 year old coding enthusiast with some knowledge in App and Web Development!
 
