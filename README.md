@@ -83,5 +83,5 @@
 ###
   
 <div align="center">
-  <a href="[buymeacoffee.com/oztturan0n](https://www.buymeacoffee.com/oztturan0n)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="turannozt" /></a>
+  <a href="https://www.buymeacoffee.com/oztturan0n"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="turannozt" /></a>
 </div>
