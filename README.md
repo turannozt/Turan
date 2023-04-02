@@ -4,6 +4,17 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=turannozt&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turannozt&show_icons=true&theme=radical&layout=compact)
 
+###
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramazancetinkaya&theme=dark" alt="ramazancetinkaya" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🚀 About Me
