@@ -4,13 +4,9 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=turannozt&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turannozt&show_icons=true&theme=radical&layout=compact)
 
-###
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=turannozt&theme=dark&hide_border=true&border_radius=4.8&locale=tr&mode=weekly)](https://git.io/streak-stats)
 
-<div align="left">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=turannozt&theme=dark" alt="turannozt" />
-</div>
 
-###
 
 <div align="left">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
