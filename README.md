@@ -6,13 +6,13 @@
 
 ###
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramazancetinkaya&theme=dark" alt="ramazancetinkaya" />
+<div align="left">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=turannozt&theme=dark" alt="turannozt" />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
